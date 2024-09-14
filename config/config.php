@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-define("ADMIN_URL","http://localhost/Online-Payroll-Management-System/");
+define("ADMIN_URL","http://local.rocket.co.in:8081/Online-Payroll-Management-System/");
 
 $db_host = "localhost";
 $db_username = "root";
