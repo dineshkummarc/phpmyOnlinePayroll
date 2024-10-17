@@ -1,6 +1,7 @@
 <div align="center">
   
-  # Online-Payroll-Management-System
+  # phpmyOnlinePayroll
+  formerly Online-Payroll-Management-System
 </div>
 
 <p align="center">
